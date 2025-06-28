@@ -12,8 +12,7 @@ venv/
 
 # Ignore large model files 
 *.tflite
-*.keras
-!asl_model.keras
+
 
 
 # Ignore training datasets 
